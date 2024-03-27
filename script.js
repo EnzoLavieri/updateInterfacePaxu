@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", function () {
   var backgrounds = [
-    "/imgs/Fundo1.jpg",
-    "/imgs/Fundo2.jpg",
-    "/imgs/Fundo3.jpg",
+    "imgs/Fundo1.jpg",
+    "imgs/Fundo2.jpg",
+    "imgs/Fundo3.jpg",
   ];
 
   var previousBackground = localStorage.getItem("background");
