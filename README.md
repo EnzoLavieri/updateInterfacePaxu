@@ -5,4 +5,5 @@ Os principais defeitos encontrados foram:
 - Ícone com fundo branco e não condizente com a "proposta" do site;
 - Possui muitos elementos desnecessários no HTML;
 - Pouca responsividade;
-- Design que provavelmente não foi atualizado há mais de 7 anos.
+- Design que provavelmente não foi atualizado há mais de 7 anos;
+- Pouco/nenhum elemento de acessibilidade;
